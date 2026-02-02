@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kishan9983/02Feb_Kishan_PythonBackend.git
+git push -u origin master
