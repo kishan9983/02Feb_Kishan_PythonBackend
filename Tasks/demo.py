@@ -1,0 +1,12 @@
+name = input("Enter your name: ")
+roll_no = input("Enter your roll no: ")
+address = input("Enter your address: ")
+contact_no = input("Enter your contact no: ")
+email = input("Enter your email: ")
+
+print("Your Details")
+print("Name:", name)
+print("Roll No:", roll_no)
+print("Address:", address)
+print("Contact No:", contact_no)
+print("Email:", email)
