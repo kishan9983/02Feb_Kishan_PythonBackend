@@ -1,9 +1,9 @@
-data= []
+myset = set()
 
 data = int(input("Enter number of elements: "))
 
 for i in range(data):
     element = input("Enter element: ")
-    data.append(element)
+    myset.add(element)
 
-print("data:", data)
+print("myset:", myset)
